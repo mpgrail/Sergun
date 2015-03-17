@@ -1,0 +1,17 @@
+﻿{
+"scripts":[],
+"styles":["/Media/css/style.css",
+"/Media/bootstrap/bootstrap/css/bootstrap.min.css"],
+"session": {"secret": "killerisssmith"},
+"port":3000,
+"mongoose": {
+"uri": "mongodb://localhost/kurs",
+"options": {
+"server": {
+"socketOptions": {
+"keepAlive": 1
+}
+}
+}
+}
+}
