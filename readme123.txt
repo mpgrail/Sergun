@@ -1,3 +1,1 @@
 456dd
-
-Sergun - tormoz
